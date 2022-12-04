@@ -7,8 +7,28 @@ Espacio de re-encuentro para las ciencias duras y las humanidades; un retorno po
 ## Presenta:
 
 # Red trasparencia:
-Sistema basado en datos abiertos para la detección de los agentes y los patrones de la corrupción sistémica en México
 
+Red transparencia App es un producto digital que ofrece herramientas para el
+estudio y análisis de dinámicas que favorecen la corrupción.
+
+Dado que la corrupción está, necesariamente, centrada en sus agentes y las redes a
+las que ellos pertenecen, es un problema de acción colectiva y un fenómeno
+sistémico que buscará perpetuar la maquinaria que la sostiene.
+
+Al ser un fenómeno multidimensional, para atacarle, no basta con generar
+mecanismos detractores para aquellos con poder; es indispensable la identificación
+de dichas redes y la protección de los actores que pudiesen ser coercionados a
+participar en actos de corrupción.
+
+Así como Arellano (2012), consideramos que la corrupción no es un acto de
+racionalidad individual sustantivamente, sino una relación social plenamente
+establecida, con intercambios, redes, instituciones y reglas informales, relativamente
+estables y organizadas susceptibles a ser estudiadas y sobre las que se puede tener
+efecto.
+
+Con este fin Luz y Data presenta Red transparencia App que, abiertas al público
+general, permite la consulta de espacios geográficos y la identificación del flujo social
+entre ellos y las diversas instituciones gubernamentales de las que forman parte.
 
 
 
