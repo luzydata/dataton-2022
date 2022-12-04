@@ -21,4 +21,4 @@ Sistema basado en datos abiertos para la detección de los agentes y los patrone
 Cosme Urdaibay          --> https://www.linkedin.com/in/urdaibayc/
 María Linares           --> https://www.linkedin.com/in/gabylinares123/
 Adrián D. Diez Canseco  --> https://www.linkedin.com/in/adri%C3%A1n-d-diez-canseco-r-7b124716a/
-Magnolia Pérez B.       --> 
+Magnolia Pérez B.       --> https://www.linkedin.com/in/magnolia-p-51093024a/
