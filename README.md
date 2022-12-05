@@ -8,7 +8,7 @@ Espacio de re-encuentro para las ciencias duras y las humanidades; un retorno po
 
 # Red trasparencia:
 
-Red transparencia App es un producto digital que ofrece herramientas para el
+Red transparencia App es un producto digital [en proceso] que ofrece herramientas para el
 estudio y análisis de dinámicas que favorecen la corrupción.
 
 Dado que la corrupción está, necesariamente, centrada en sus agentes y las redes a
@@ -31,16 +31,14 @@ general, permite la consulta de espacios geográficos y la identificación del f
 entre ellos y las diversas instituciones gubernamentales de las que forman parte.
 
 
-
-
-#Dasboard
+## Dasboard
 https://datastudio.google.com/reporting/d775c8fe-4319-4ba0-955b-b12dc3e704be
 
 
-
-
 # Nosotros:
-Cosme Urdaibay          --> https://www.linkedin.com/in/urdaibayc/
-María Linares           --> https://www.linkedin.com/in/gabylinares123/
-Adrián D. Diez Canseco  --> https://www.linkedin.com/in/adri%C3%A1n-d-diez-canseco-r-7b124716a/
-Magnolia Pérez B.       --> https://www.linkedin.com/in/magnolia-p-51093024a/
+* [Adrián D. Diez Canseco](https://www.linkedin.com/in/adri%C3%A1n-d-diez-canseco-r-7b124716a/)
+* [Cosme Urdaibay](https://www.linkedin.com/in/urdaibayc/)
+* [Magnolia Pérez B.](https://www.linkedin.com/in/magnolia-p-51093024a/)
+* [María Linares](https://www.linkedin.com/in/gabylinares123/)
+
+
